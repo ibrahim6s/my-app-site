@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>إبراهيم | تطبيقاتي</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>مرحبًا، أنا إبراهيم</h1>
+      <p>هذه الصفحة الرسمية الخاصة بي وبمشاريعي وتطبيقاتي.</p>
+    </header>
+
+    <section class="card">
+      <h2>عنّي</h2>
+      <p>
+        مطور ومهتم بالتطبيقات والتقنية، وهذه صفحة تعريفية بسيطة تعرض
+        معلوماتي وروابط تطبيقاتي ووسائل التواصل.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>تطبيقاتي</h2>
+      <ul>
+        <li>
+          <strong>اسم التطبيق 1</strong><br />
+          وصف مختصر للتطبيق<br />
+          <a href="#">رابط Google Play</a>
+        </li>
+        <li>
+          <strong>اسم التطبيق 2</strong><br />
+          وصف مختصر للتطبيق<br />
+          <a href="#">رابط Google Play</a>
+        </li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>التواصل</h2>
+      <p>البريد الإلكتروني: your@email.com</p>
+    </section>
+
+    <footer>
+      <p>© 2026 إبراهيم - جميع الحقوق محفوظة</p>
+    </footer>
+  </div>
+</body>
+</html>
